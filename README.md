@@ -4,7 +4,7 @@
 
 >Projeto construído no evento Next Level Week da Rocketseat 👏
 
-🔗[Acesse clicando aqui](https://rcpedroh.github.io/nwl-MeusJogosFavorito/)
+🔗[Acesse clicando aqui](https://rcpedroh.github.io/nwl-MeusJogosFavoritos/)
 
 ## Tecnologias
 
